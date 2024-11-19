@@ -1,0 +1,23 @@
+
+.quote-text{
+    text-align: center;
+}
+.quote-text h1{
+    font-size: 73px;
+    font-weight: bolder;
+    font-family: "Racing Sans One", sans-serif;
+}
+.quote-text p{
+    font-size: 35px;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    
+}
+button:hover {
+    background-color: green;
+    
+}
